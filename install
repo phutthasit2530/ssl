@@ -336,7 +336,7 @@ echo "OpenVPN  : IP/client.ovpn"  | tee -a log-install.txt | lolcat
 echo "Fail2Ban : [on]"  | tee -a log-install.txt | lolcat
 echo "Timezone : Asia/Kuala_Lumpur"  | tee -a log-install.txt | lolcat
 echo "Menu : type menu to check menu script"  | tee -a log-install.txt | lolcat
-echo ""  | tee -a log-install.txt | lolcat
+echo ""  | tee -a logj-install.txt | lolcat
 echo "----------------------------------------" | lolcat
 echo "LOG INSTALL  --> /root/log-install.txt" | lolcat
 echo "----------------------------------------" | lolcat
